@@ -1,0 +1,9 @@
+Number: 9242463289
+If we take a number, that is this one, written in reverse order,
+what will be the nearest prime (any direction)?
+
+Big number: 9823642429
+
+Checking numbers...
+
+Nearest prime (any direction): 9823642429 (distance: 0 numbers).

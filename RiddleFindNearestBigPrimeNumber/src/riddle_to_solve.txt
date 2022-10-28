@@ -1,0 +1,3 @@
+Number: 9242463289
+If we take a number, that is this one, written in reverse order,
+what will be the nearest prime (any direction)?

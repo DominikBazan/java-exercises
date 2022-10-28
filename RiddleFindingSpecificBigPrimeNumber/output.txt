@@ -1,0 +1,15 @@
+Riddle:
+Fruit: 51680708854858323070
+This fruit collected is not of a prime sort.
+Please, extract a prime one.
+
+Big number: 51680708854858323070
+
+Number 51680708854858323070 is a divider of 51680708854858323070 but it isn't a prime number.
+Number 25840354427429161535 is a divider of 51680708854858323070 but it isn't a prime number.
+Number 10336141770971664614 is a divider of 51680708854858323070 but it isn't a prime number.
+Number 5168070885485832307 is a divider of 51680708854858323070 but it isn't a prime number.
+Number 92424632890 is a divider of 51680708854858323070 but it isn't a prime number.
+Number 46212316445 is a divider of 51680708854858323070 but it isn't a prime number.
+Number 18484926578 is a divider of 51680708854858323070 but it isn't a prime number.
+Number 9242463289 is a divider of 51680708854858323070 and it is a prime number so it is a solution!

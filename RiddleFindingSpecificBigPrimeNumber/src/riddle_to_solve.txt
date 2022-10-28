@@ -1,0 +1,3 @@
+Fruit: 51680708854858323070
+This fruit collected is not of a prime sort.
+Please, extract a prime one.
