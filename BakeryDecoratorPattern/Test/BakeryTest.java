@@ -32,6 +32,13 @@ class BakeryTest {
 
     @Test
     void testGetVanillaCakeName() {
-        assertEquals("vanilla cake", new Vanilla().getName());
+        assertEquals("Vanilla cake", new Vanilla().getName());
+    }
+
+    @Test
+    void testMultiLayeredStrawberryCakeWithSprinklesWithSayingEverytime() {
+        Cake cake = new WithTheSayingX(new Sprinkles(new MultiLayered(new Strawberry())), "EVERYTIME");
+        String cakeName = cake.getName();
+        assertEquals("Multi-layered Strawberry cake with sprinkles with saying 'EVERYTIME'", cakeName);
     }
 }

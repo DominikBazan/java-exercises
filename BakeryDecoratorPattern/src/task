@@ -1,15 +1,15 @@
 The bakery makes two types of cakes: vanilla and chocolate. They now want to make more complex cakes such as a "Multi-layered Vanilla cake with sprinkles that says 'Hello World!'"
 
-Change the code so that an order can contain such complex cakes using the Decorator Pattern:
+Write the code so that an order can contain such complex cakes using the Decorator Pattern:
 
 Create the necessary decorator classes:
 For multi-layered cakes, add $5 and print "Multi-layered" out at the front of the name.
 For sprinkles, add $2 and print "with sprinkles" at the end of the name.
 For a cake with the saying X, add nothing to the cost, and print "with saying 'X'" at the end of the name.
-Add the new type of cake: strawberry cake, which costs twice as much as a Cake.
+Add the new type of cake: strawberry cake, which costs $14.
 Change the client to add the following to an Order, and print the Order:
 Chocolate cake
-Vanilla cake with saying "PLAIN!"
-Vanilla cake with sprinkles with saying "FANCY"
-Multi-layered Strawberry cake with double sprinkles and two sayings "One of" and "EVERYTHING"
-Suggested output is: Multi-layered Strawberry cake with sprinkles with sprinkles with saying "One of" with saying "EVERYTHING"
+Vanilla cake with saying 'PLAIN!'
+Vanilla cake with sprinkles with saying 'FANCY'
+Multi-layered Strawberry cake with double sprinkles and two sayings 'One of' and 'EVERYTHING'
+Suggested output is: Multi-layered Strawberry cake with sprinkles with sprinkles with saying 'One of' with saying 'EVERYTHING'

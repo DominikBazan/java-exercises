@@ -1,6 +1,6 @@
-public class Vanilla extends Cake {
+public class Strawberry extends Cake {
 
-    String cakeName = "Vanilla";
+    String cakeName = "Strawberry";
 
     @Override
     public String getName() {
@@ -9,6 +9,6 @@ public class Vanilla extends Cake {
 
     @Override
     public int calculateCost() {
-        return 7;
+        return 14;
     }
 }
